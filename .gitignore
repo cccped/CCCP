@@ -1,0 +1,13 @@
+*.odt
+*.ods
+*.ott
+*.lokoj
+*#
+.LABs/
+.TMP/
+.TRASH/
+*.tmp
+*.zip
+*.tar*/
+*.py[roc]
+
